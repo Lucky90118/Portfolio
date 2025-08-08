@@ -6,7 +6,7 @@ export const personalData = {
   email: 'johntitan1999@gmail.com ',
   github: 'https://github.com/90118',
   // linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  // twitter: 'https://twitter.com/said7388',
+  // twitter: 'https://twitter.com/lucky90118',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/said3812/",
   devUsername: "Lucky90118",
