@@ -148,13 +148,13 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "Bruno Cat",
+  name: "Lucky",
   profile: "/profile.png",
   designation: "Full Stack Developer",
   email: "johntitan1999@gmail.com ",
   address: "Singapore",
-  github: "https://github.com/BrunoCat118",
-  devUsername: "BrunoCat118",
+  github: "https://github.com/lucky90118",
+  devUsername: "lucky90118",
   resume: "...",
 };
 ```

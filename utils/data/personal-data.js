@@ -1,16 +1,13 @@
 export const personalData = {
-  name: "Bruno Cat",
+  name: "Lucky",
   profile: '/profile.png',
   designation: "Junior Full Stack Developer",
-  description: "I am a professional and passionate programmer by day. I am a fast learner and have a self-learning attitude. I love learning and exploring new technologies and am passionate about problem solving. I love almost all stacks of web application development and I love making the web more open to the world. My core technology is based on JavaScript and I like to do most of my work using JavaScript. I also have a lot of experience in game development including unity and Blockchain development which is becoming a global trend now. Based on my skills and experience, I am open to applying for any kind of job that suits my interests.",
+  description: "I'm a professional and passionate programmer. I'm a fast learner and have a self-directed learning style. I enjoy learning and exploring new technologies, and I'm passionate about problem solving. I enjoy almost all web application development stacks and am passionate about making the web more open to the world. My core skills are JavaScript and TypeScript, and I handle most of my work with them. I also have extensive experience in game development, including Unity, and blockchain development, a rapidly emerging global trend.I also have deep knowledge and extensive experience in AI, including Python. With these skills and experience, I'm ready to apply for any job that aligns with my interests.",
   email: 'johntitan1999@gmail.com ',
-  phone: '+8801608797655',
-  address: 'Singapore',
-  github: 'https://github.com/BrunoCat118',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
+  github: 'https://github.com/90118',
+  // linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
+  // twitter: 'https://twitter.com/said7388',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/said3812/",
-  devUsername: "BrunoCat118",
-  resume: "resume.pdf"
+  devUsername: "Lucky90118",
 }

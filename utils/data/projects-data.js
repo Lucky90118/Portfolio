@@ -25,6 +25,7 @@ export const projectsData = [
         name: 'Angular-Fire',
         description: "AngularFire is a library for Firebase and Angular. It is a wrapper around the Firebase SDK that makes it easier to use Firebase with Angular.AngularFire smooths over the rough edges an Angular developer might encounter when implementing the framework-agnostic Firebase JS SDK & aims to provide a more natural developer experience by conforming to Angular conventions.",
         tools: ['Angular', 'Firebase','rxjs','realtime-database','ngrx','angularfire','notifications', 'cloud-functions'],
+        role: 'Junior Full Stack Developer',
     }
 ];
 
